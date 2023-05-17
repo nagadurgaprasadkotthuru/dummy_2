@@ -1,0 +1,24 @@
+.home-bg-container {
+  background-color: #161625;
+  min-height: 100vh;
+}
+
+.loader-container {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.confirmed-heading {
+  color: #ff073a;
+}
+
+.confirmed-icon {
+  color: #ff073a;
+  font-weight: 700;
+}
+
+.confirmed-count {
+  color: #ff073a;
+}
